@@ -1,6 +1,6 @@
 [project]
 name = "watchdog-timer"
-version = "0.1.0"
+version = "0.1.1"
 description = "Schedules a function to run after a delay, cancellable before it fires."
 requires-python = ">=3.10"
 dependencies = []
